@@ -1,4 +1,8 @@
 .env
-artifacts/
+.venv/
 __pycache__/
+artifacts/
 *.pyc
+.pytest_cache/
+.ruff_cache/
+项目常用命令.txt
